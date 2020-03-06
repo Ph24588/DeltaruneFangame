@@ -1,0 +1,2346 @@
+fileFormatVersion: 2
+guid: dcf7d69a167639f4997dc207096d4e97
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: susie_spritesheet_0
+    21300002: susie_spritesheet_1
+    21300004: susie_spritesheet_2
+    21300006: susie_spritesheet_3
+    21300008: susie_spritesheet_4
+    21300010: susie_spritesheet_5
+    21300012: susie_spritesheet_6
+    21300014: susie_spritesheet_7
+    21300016: susie_spritesheet_8
+    21300018: susie_spritesheet_9
+    21300020: susie_spritesheet_10
+    21300022: susie_spritesheet_11
+    21300024: susie_spritesheet_12
+    21300026: susie_spritesheet_13
+    21300028: susie_spritesheet_14
+    21300030: susie_spritesheet_15
+    21300032: susie_spritesheet_16
+    21300034: susie_spritesheet_17
+    21300036: susie_spritesheet_18
+    21300038: susie_spritesheet_19
+    21300040: susie_spritesheet_20
+    21300042: susie_spritesheet_21
+    21300044: susie_spritesheet_22
+    21300046: susie_spritesheet_23
+    21300048: susie_spritesheet_24
+    21300050: susie_spritesheet_25
+    21300052: susie_spritesheet_26
+    21300054: susie_spritesheet_27
+    21300056: susie_spritesheet_28
+    21300058: susie_spritesheet_29
+    21300060: susie_spritesheet_30
+    21300062: susie_spritesheet_31
+    21300064: susie_spritesheet_32
+    21300066: susie_spritesheet_33
+    21300068: susie_spritesheet_34
+    21300070: susie_spritesheet_35
+    21300072: susie_spritesheet_36
+    21300074: susie_spritesheet_37
+    21300076: susie_spritesheet_38
+    21300078: susie_spritesheet_39
+    21300080: susie_spritesheet_40
+    21300082: susie_spritesheet_41
+    21300084: susie_spritesheet_42
+    21300086: susie_spritesheet_43
+    21300088: susie_spritesheet_44
+    21300090: susie_spritesheet_45
+    21300092: susie_spritesheet_46
+    21300094: susie_spritesheet_47
+    21300096: susie_spritesheet_48
+    21300098: susie_spritesheet_49
+    21300100: susie_spritesheet_50
+    21300102: susie_spritesheet_51
+    21300104: susie_spritesheet_52
+    21300106: susie_spritesheet_53
+    21300108: susie_spritesheet_55
+    21300110: susie_spritesheet_57
+    21300112: susie_spritesheet_58
+    21300114: susie_spritesheet_59
+    21300116: susie_spritesheet_60
+    21300118: susie_spritesheet_61
+    21300120: susie_spritesheet_63
+    21300122: susie_spritesheet_64
+    21300124: susie_spritesheet_65
+    21300126: susie_spritesheet_66
+    21300128: susie_spritesheet_67
+    21300130: susie_spritesheet_68
+    21300132: susie_spritesheet_69
+    21300134: susie_spritesheet_70
+    21300136: susie_spritesheet_71
+    21300138: susie_spritesheet_72
+    21300140: susie_spritesheet_73
+    21300142: susie_spritesheet_74
+    21300144: susie_spritesheet_75
+    21300146: susie_spritesheet_76
+    21300148: susie_spritesheet_78
+    21300150: susie_spritesheet_79
+    21300152: susie_spritesheet_80
+    21300154: susie_spritesheet_82
+    21300156: susie_spritesheet_83
+    21300158: susie_spritesheet_84
+    21300160: susie_spritesheet_85
+    21300162: susie_spritesheet_86
+    21300164: susie_spritesheet_89
+    21300166: susie_spritesheet_90
+    21300168: susie_spritesheet_91
+    21300170: susie_spritesheet_92
+    21300172: susie_spritesheet_93
+    21300174: susie_spritesheet_94
+    21300176: susie_spritesheet_95
+    21300178: susie_spritesheet_96
+    21300180: susie_spritesheet_98
+    21300182: susie_spritesheet_100
+    21300184: susie_spritesheet_102
+    21300186: susie_spritesheet_103
+    21300188: susie_spritesheet_104
+    21300190: susie_spritesheet_105
+    21300192: susie_spritesheet_106
+    21300194: susie_spritesheet_107
+    21300196: susie_spritesheet_108
+    21300198: susie_spritesheet_109
+    21300200: susie_spritesheet_110
+    21300202: susie_spritesheet_111
+    21300204: susie_spritesheet_112
+    21300206: susie_spritesheet_113
+    21300208: susie_spritesheet_114
+    21300210: susie_spritesheet_115
+    21300212: susie_spritesheet_116
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: susie_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 688
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6794676, y: 0.027456889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f1cbb105f1784a9241060582b8318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 688
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6794676, y: 0.027456889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b56a7055e59cd24fa0111e1b97ed82a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 688
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6794676, y: 0.027456889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96dec59d36bb0449d418c69cb41886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 688
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6794676, y: 0.027456889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeb928cb71ffad42a124f8fabe88eb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 688
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6794676, y: 0.027456889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26073b4674631240a20c7419b41c335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 688
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6794676, y: 0.027456889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80249d40cb3b643b841924daecd549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 688
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6794676, y: 0.027456889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3845adff9388494ab5fff56d2c1dff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 688
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6794676, y: 0.027456889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e528e115f38b66c49b640e99b0070d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 688
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5471959, y: 0.025281953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fff4b8def74bc24d9c9176841f26317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 688
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5471959, y: 0.025281953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770c68d9e499de4cadaf6ad3a58b50e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 688
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5471959, y: 0.025281953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a42ba0af597f441a9b6388a29eaf06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 688
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5471959, y: 0.025281953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c44d2c7676f8a45a7fbee3eb3fcbd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 606
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.66024435, y: 0.050833352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9468c4f2a81d24b82c9b8fafeb08f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 605
+        width: 73
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6301178, y: 0.05529094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d451b791cc41d4da57dd48ac45b823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 606
+        width: 62
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8214436, y: 0.052270837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61e7e936cc4764baf813fc9dbaa87c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 605
+        width: 57
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7713189, y: 0.074186705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a27f6c310d5904b9fbc9abb3d0f336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 605
+        width: 57
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7709543, y: 0.070726015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d539b9abb2f4f346a19b418d2b7c74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 605
+        width: 57
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7721397, y: 0.07288208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468aac52e82fd4448b770b85174f63bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 612
+        width: 71
+        height: 70
+      alignment: 9
+      pivot: {x: 0.31030875, y: 0.05828596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4734958f49fe8b142a5059e0176bb86a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 612
+        width: 71
+        height: 70
+      alignment: 9
+      pivot: {x: 0.31030875, y: 0.05828596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06361485cac244292248854fd0a53d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 610
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: 0.58901143, y: 0.084424034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93733e6e15d3f574ab9e2e47bb74858a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 610
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: 0.58901143, y: 0.084424034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b4bd8429c80d24c9d063dd22c32fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 607
+        width: 46
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6311115, y: 0.094864756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d483f9add08cce04c8cee006937d60e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 604
+        width: 49
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6735865, y: 0.10911931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af349cf6834163b48adce84a95e5bfde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 604
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6735865, y: 0.10911931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe4dadf776520e4d993c80932048ecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 604
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6735865, y: 0.10911931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e817b4b74b83e4fb4618a8354f981d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 604
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6735865, y: 0.10911931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c8d057da0be9f4692838196125636d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 527
+        width: 87
+        height: 65
+      alignment: 9
+      pivot: {x: 0.42583215, y: 0.062024865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f6d3b748480d4f901a628cf3fa073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 527
+        width: 87
+        height: 65
+      alignment: 9
+      pivot: {x: 0.39084458, y: 0.07525353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595b56638697ac4c98c7479853afca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 527
+        width: 60
+        height: 33
+      alignment: 9
+      pivot: {x: 0.39902088, y: 0.15175004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0bd42f501749419d3e305a0f278c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 527
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4086479, y: 0.14952688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d1a65dc1e938249b9a501eeb77e9f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 527
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4074452, y: 0.15175004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f3b8bbf1f2e1e42b50d29e46e90c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 527
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.40985107, y: 0.14903675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c5a90ed585764286afb9ad984a22a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 527
+        width: 87
+        height: 65
+      alignment: 9
+      pivot: {x: 0.42428973, y: 0.061545033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78949fbbb27d3d649aebf139db5073f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 527
+        width: 87
+        height: 65
+      alignment: 9
+      pivot: {x: 0.38875815, y: 0.07693059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c47eefa7373f4b82d64e18bb56b68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 527
+        width: 60
+        height: 33
+      alignment: 9
+      pivot: {x: 0.40004477, y: 0.1515318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3461b17b32fbc468ca8a0229937755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 527
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4098811, y: 0.1515318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d590d9b4464fcc4f99e54658487666c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 527
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.40839124, y: 0.1515318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e04a723519ccf419222b05a697a640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 527
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4098821, y: 0.14877596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de536936991b4246b92d2b26d1380f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 530
+        width: 49
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aabdc936c305d741bd4c634944e1ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 530
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e0d941ee831dc4c962dae4bf6a67d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 530
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec40edfc7e559ec40b1fb545c4435f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 530
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821a0d36f0fcc35468909bb55c80eb72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 530
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b230d31ec347b2e46acc148968290bd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 530
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c8a811164253b4ab129b3a8e620641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 530
+        width: 63
+        height: 41
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa24a837beaee64e9bd3d736c6ecad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 454
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6781cede11aeaf4aba7b578dc5b043a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 454
+        width: 63
+        height: 41
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4845e952c6177b4198f287fd0782667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 378
+        width: 27
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48550513, y: 0.044414867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241debb5dafd7fb459753d04bd19477b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 378
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.46471733, y: 0.043959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d9cadef09dbff4280eb7316a85ba62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 378
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.43017688, y: 0.043959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef8b5c68cf8814484fe2f7a9dac777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 378
+        width: 57
+        height: 43
+      alignment: 9
+      pivot: {x: 0.17275359, y: 0.04498149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020545cabc6d1e4e8ba23080b30b902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 378
+        width: 60
+        height: 43
+      alignment: 9
+      pivot: {x: 0.1670466, y: 0.04498149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de74164198a5c34293de1dc22f0ce3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 378
+        width: 62
+        height: 43
+      alignment: 9
+      pivot: {x: 0.16165751, y: 0.04498149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ce6ac6f2e6ec4180b7ff159c3dd4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 378
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.18745048, y: 0.04498149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4f0272bbed244469f7c3a1ebe0f7fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 378
+        width: 37
+        height: 43
+      alignment: 9
+      pivot: {x: 0.27088556, y: 0.04498149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1e006f16cc9f4a835baf35d501790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 378
+        width: 37
+        height: 43
+      alignment: 9
+      pivot: {x: 0.273647, y: 0.044738058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76f4cc6bd5d9694b9be0d60f1b35d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 378
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.42371914, y: 0.04493991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace66db31d98bdc4b875b9a18c065c98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 378
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.46255928, y: 0.04493991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8536bc9cfc180a444b383ad26cc80b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 379
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.66036355, y: 0.050639827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f7ec1d57395e41949ae97f09e798c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6993524, y: 0.026314545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea245f19025da2428bd758bd895de6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 326
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6794927, y: 0.026314545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc25819ac9aa67d44b348805d6f45b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 326
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.65963316, y: 0.026314545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29f26101f9afe4e9ce187da4138578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 326
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.65963316, y: 0.026314545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dda77213e927a64495bfeadbf7bdac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 326
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6610505, y: 0.024434661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e536adde846c74aa8a81e0e88460a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 326
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.69002074, y: 0.024434661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28973e2cfb86204db7361d3c13ef7eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 326
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.69002074, y: 0.024434661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa8a0f20dca6e43a4ad630f48945ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 262
+        width: 41
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3902439, y: 0.017857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2638fe42ec75245bc31d3b7922c544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 262
+        width: 42
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.017857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ba7cf3e9d5e7d4e8dd5982ca21430c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 262
+        width: 42
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.017857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d339f055d7411104c9abf61368fa725d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 262
+        width: 41
+        height: 55
+      alignment: 9
+      pivot: {x: 0.3902439, y: 0.018181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1047af7a06a7345ad0b3c886685c7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 60
+        height: 67
+      alignment: 9
+      pivot: {x: 0.28333336, y: 0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a81ae1d8df2d7419abf10cdbcfd8d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 180
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.30357143, y: 0.013888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d4f99a11929142aaf762360aab387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 180
+        width: 49
+        height: 72
+      alignment: 9
+      pivot: {x: 0.34693876, y: 0.013888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0712cec286fe84f4d8accc430b618dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 180
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f31b9cf47d274a8b1233c04ac290e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 180
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfafcfde63b6a848b00fc9e19ac22f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 180
+        width: 54
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.01724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871151163e5ce84eaf0788c694b4193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 180
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291eb3fd31af2984e868fdc3644fc31f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 180
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6792453, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881848db6e614c3469f5404e7107c154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 180
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6792453, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5d8f5ffdbeb94995c872579499a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 105
+        width: 55
+        height: 66
+      alignment: 9
+      pivot: {x: 0.56363636, y: 0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e1aaf22480534b80e41cc4c364184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 105
+        width: 35
+        height: 62
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.032258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c7dc3e1e15d9f40852bc00bd49a057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6346154, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f581252d726363449ba44447f187d0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 45
+        height: 59
+      alignment: 9
+      pivot: {x: 0.35555556, y: 0.033898305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800a93e33c6dfaa4bb2397e029e5182f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 105
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926e4554b9920c54b90b994cbec04fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 105
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a056b2d8688b474dbbf217bb71222ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee14b9d29fc8e24788184b55ae5e34d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 53
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6603774, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340123cf50b13164ba953bcc24e7138d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 58
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200fc337343ecb64995b44b234a38c82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6538462, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249df27b19cc8d24d954cbc001c13aae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 53
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7169812, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f01fad8cf1b0a4fb2eb2235169188a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 54
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7222222, y: 0.040816326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10db9f8bc52b884f8ff98c0c9a82d53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7368421, y: 0.04255319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cf28932960f4b459b7d23dbaa95bfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74439d140835ce6468f6e4551bcf6c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f8d873a92a8e74b9a9b7b7003fcfc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584c6b59c94e2e74f80b8c1494c33838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb05de134237c8a4fb7f92d0187a8b11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b25f73130ba3d644b9f640c3f6fe319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cae173c49c23249a966eb36184a65b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd1623ef4ba964eaeec0469a4901f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e513e395b68ee84bb360660f20bda1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf2eb0edb96f84c8bf115f34dfc7d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e9f6bb53e2b74a9a12f716bbd2eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.43333337, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a133cee2c6194586b38adbe7e4bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 0
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ca0b180309374b9c7ff9a693d7d29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab6f65597df75409dade3cba3ddb16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susie_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.52, y: 0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d2a9dc6cf4f474495e9efcad2810d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 866d68e46b80168499b60dd259f96231
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

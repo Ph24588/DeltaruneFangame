@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 7d31c3b1e90e7024f93eb61c675aa020
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: seam_casual_special_attack_0
+    21300002: seam_casual_special_attack_1
+    21300004: seam_casual_special_attack_2
+    21300006: seam_casual_special_attack_3
+    21300008: seam_casual_special_attack_4
+    21300010: seam_casual_special_attack_5
+    21300012: seam_casual_special_attack_6
+    21300014: seam_casual_special_attack_7
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seam_casual_special_attack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 29
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd1ccc04cf0a784faf2bf4be42dd135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_casual_special_attack_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 29
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c3de8c8b7cde438be90bd92f3f994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_casual_special_attack_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 29
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b9fa31dbb2dc74c88ea7eea9a09518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_casual_special_attack_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 29
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cae3ed307217f441b673ccaf8d979dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_casual_special_attack_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 29
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e0b58a364dae4c9a90f52713fd1e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_casual_special_attack_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 29
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01186c6450f09cf4f8d81d3cd5e51844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_casual_special_attack_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 29
+        width: 47
+        height: 43
+      alignment: 9
+      pivot: {x: 0.7234042, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3a76d3fd9286458ae1070c3d93fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_casual_special_attack_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 29
+        width: 47
+        height: 43
+      alignment: 9
+      pivot: {x: 0.7234042, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16131a21c97f5af40af31321a5685a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6fa1d50a60bde45468357351a502e90c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

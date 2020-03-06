@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 85621d09dae105b4880022a8cbd5993e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: seam_serious_idle_1
+    21300002: seam_serious_idle_3
+    21300004: seam_serious_idle_4
+    21300006: seam_serious_idle_5
+    21300008: seam_serious_idle_6
+    21300010: seam_serious_idle_7
+    21300012: seam_serious_idle_9
+    21300014: seam_serious_idle_10
+    21300016: seam_serious_idle_11
+    21300018: seam_serious_idle_13
+    21300020: seam_serious_idle_16
+    21300022: seam_serious_idle_18
+    21300024: seam_serious_idle_19
+    21300026: seam_serious_idle_23
+    21300028: seam_serious_idle_24
+    21300030: seam_serious_idle_26
+    21300032: seam_serious_idle_27
+    21300034: seam_serious_idle_28
+    21300036: seam_serious_idle_31
+    21300038: seam_serious_idle_0
+    21300040: seam_serious_idle_2
+    21300042: seam_serious_idle_8
+    21300044: seam_serious_idle_17
+    21300046: seam_serious_idle_29
+    21300048: seam_serious_idle_12
+    21300050: seam_serious_idle_30
+    21300052: seam_serious_idle_21
+    21300054: seam_serious_idle_32
+    21300056: seam_serious_idle_33
+    21300058: seam_serious_idle_34
+    21300060: seam_serious_idle_22
+    21300062: seam_serious_idle_35
+    21300064: seam_serious_idle_36
+    21300066: seam_serious_idle_25
+    21300068: seam_serious_idle_37
+    21300070: seam_serious_idle_20
+    21300072: seam_serious_idle_38
+    21300074: seam_serious_idle_14
+    21300076: seam_serious_idle_39
+    21300078: seam_serious_idle_40
+    21300080: seam_serious_idle_15
+    21300082: seam_serious_idle_41
+    21300084: seam_serious_idle_42
+    21300086: seam_serious_idle_43
+    21300088: seam_serious_idle_44
+    21300090: seam_serious_idle_45
+    21300092: seam_serious_idle_46
+    21300094: seam_serious_idle_47
+    21300096: seam_serious_idle_48
+    21300098: seam_serious_idle_49
+    21300100: seam_serious_idle_50
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seam_serious_idle_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 89
+        width: 24
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187663d35f88b0478784aca603166ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 70
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d79fcb4c1477469a9b522d22738e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 69
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef69c6d8ba589ab4c89c3f1ffffb2e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 70
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8928332b358be43ba9eb6387956b76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 70
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178e952406290a48a505d89dd877d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 65
+        width: 24
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a483907a1262345bc408d577bb2d7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 53
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e3756c53f39a64085b6d12a8de1dda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 52
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ddae0b09017f4ca98d13124bc1e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 50
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63916e2608c05af4fbd4f16d24ca5580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 27
+        width: 9
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea069ff36fce8a499d9d8e553b6db8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 41
+        width: 24
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf9ca0744d3cc46b14a54abf3ab852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 12
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6edd7d8c8bad54686966362fad1db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 12
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b4844dad30e14fb24a8dc832b6aa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 26
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcdd810463ba314eb61ade6da01cc56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_24
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 26
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505f1d67feb0fd242a7a8788292dbddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_26
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 28
+        width: 8
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93507a16c6f33c943a32f01f756c51ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_27
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 28
+        width: 8
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc47a5feb8e75b41b703f30499f1abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 18
+        width: 24
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e31cec542fc9d4babe609021ff8a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 17
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f83b5ba37cce8545a4a0a1f7b468c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 30
+        width: 3
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ea3fd9c4a3fd04fb58681363038949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 30
+        width: 3
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edddce1e6405e5e4ca64da75c038249e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 24
+        width: 3
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e6beb94d62b64289e14d80c9428c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 3
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433e2f7413671b94b9b4923af4adfcbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 1
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b196359d29525a478b220deb0d00b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 17
+        width: 2
+        height: 3
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0f7be7b9711044fa200539cbad9e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 17
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45cec05b7606a6449d1fc9c462ae884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 17
+        width: 8
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a355b0dc44f509743a6d24155bbe8a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_32
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 17
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166254a285dffe41a856f07b3d2eef9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 17
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd5de04f3571045ae387f8dd5a114f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 17
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd269b519fc24564f9933112aa280bc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 26
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e15680e9bc6c1e4fa3b6f832ce93ce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_35
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 26
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973f4fdb7b04d344be0992243adbd29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 26
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61fc46efed5a2241899967359d7d2a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_25
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 26
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee50ba51d0579408b204be177007ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 26
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9705826047c8ac945b943fe971180de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 28
+        width: 8
+        height: 3
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15205ca9ee51f6347887525325745e75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 28
+        width: 10
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b185ef6a9bb4ccc4599d25f407133fe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_14
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 10
+        width: 9
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70046b9c0c770534ba53e44f8636ed01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 10
+        width: 9
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2910b6eaf8e1664e90b851bb2b83e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_40
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 10
+        width: 9
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703a237fd92c8454db6dd30045c3f481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 27
+        width: 8
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b3c086cdb30cc4c90a2ddd06d32e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_41
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 27
+        width: 8
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e509305542b34ab2f44876d805751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_42
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 28
+        width: 8
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c20d5c6647824195920eb7a058ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 79
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a192768c3847434384e7ae5e9615ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf509ff14219fd74691c060eb0d7bc30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 9
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0afea882d635e479a01cc20062db60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 74
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.48, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5b2d4ec9f662948a722104e5879fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 51
+        width: 26
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd88d660e3eea47b60351eea37f982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 26
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269e72296b82dbe40ac544318b1d20e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_49
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe9a002181a2e44bf2d49ea01499a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seam_serious_idle_50
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 49
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b89778149b2e2f40852e215f71e8bfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b927d45bfac42f4498fd02116550b3c0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

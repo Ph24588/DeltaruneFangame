@@ -1,0 +1,2078 @@
+fileFormatVersion: 2
+guid: 128a92cde0d408047be4480eb322f56e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ralsei_spritesheet_33
+    21300002: ralsei_spritesheet_35
+    21300004: ralsei_spritesheet_36
+    21300006: ralsei_spritesheet_37
+    21300008: ralsei_spritesheet_38
+    21300010: ralsei_spritesheet_40
+    21300012: ralsei_spritesheet_41
+    21300014: ralsei_spritesheet_42
+    21300016: ralsei_spritesheet_43
+    21300018: ralsei_spritesheet_44
+    21300020: ralsei_spritesheet_45
+    21300022: ralsei_spritesheet_46
+    21300024: ralsei_spritesheet_47
+    21300026: ralsei_spritesheet_48
+    21300028: ralsei_spritesheet_49
+    21300030: ralsei_spritesheet_74
+    21300032: ralsei_spritesheet_75
+    21300034: ralsei_spritesheet_76
+    21300036: ralsei_spritesheet_77
+    21300038: ralsei_spritesheet_78
+    21300040: ralsei_spritesheet_79
+    21300042: ralsei_spritesheet_80
+    21300044: ralsei_spritesheet_81
+    21300046: ralsei_spritesheet_82
+    21300048: ralsei_spritesheet_83
+    21300050: ralsei_spritesheet_84
+    21300052: ralsei_spritesheet_85
+    21300054: ralsei_spritesheet_86
+    21300056: ralsei_spritesheet_87
+    21300058: ralsei_spritesheet_88
+    21300060: ralsei_spritesheet_89
+    21300062: ralsei_spritesheet_90
+    21300064: ralsei_spritesheet_91
+    21300066: ralsei_spritesheet_92
+    21300068: ralsei_spritesheet_94
+    21300070: ralsei_spritesheet_97
+    21300072: ralsei_spritesheet_98
+    21300074: ralsei_spritesheet_99
+    21300076: ralsei_spritesheet_102
+    21300078: ralsei_spritesheet_103
+    21300080: ralsei_spritesheet_104
+    21300082: ralsei_spritesheet_105
+    21300084: ralsei_spritesheet_106
+    21300086: ralsei_spritesheet_107
+    21300088: ralsei_spritesheet_108
+    21300090: ralsei_spritesheet_109
+    21300092: ralsei_spritesheet_110
+    21300094: ralsei_spritesheet_111
+    21300096: ralsei_spritesheet_112
+    21300098: ralsei_spritesheet_113
+    21300100: ralsei_spritesheet_114
+    21300102: ralsei_spritesheet_115
+    21300104: ralsei_spritesheet_116
+    21300106: ralsei_spritesheet_117
+    21300108: ralsei_spritesheet_118
+    21300110: ralsei_spritesheet_119
+    21300112: ralsei_spritesheet_120
+    21300114: ralsei_spritesheet_121
+    21300116: ralsei_spritesheet_122
+    21300118: ralsei_spritesheet_123
+    21300120: ralsei_spritesheet_124
+    21300122: ralsei_spritesheet_125
+    21300124: ralsei_spritesheet_126
+    21300126: ralsei_spritesheet_127
+    21300128: ralsei_spritesheet_128
+    21300130: ralsei_spritesheet_129
+    21300132: ralsei_spritesheet_130
+    21300134: ralsei_spritesheet_131
+    21300136: ralsei_spritesheet_133
+    21300138: ralsei_spritesheet_135
+    21300140: ralsei_spritesheet_137
+    21300142: ralsei_spritesheet_138
+    21300144: ralsei_spritesheet_139
+    21300146: ralsei_spritesheet_140
+    21300148: ralsei_spritesheet_141
+    21300150: ralsei_spritesheet_142
+    21300152: ralsei_spritesheet_143
+    21300154: ralsei_spritesheet_144
+    21300156: ralsei_spritesheet_145
+    21300158: ralsei_spritesheet_146
+    21300160: ralsei_spritesheet_147
+    21300162: ralsei_spritesheet_148
+    21300164: ralsei_spritesheet_149
+    21300166: ralsei_spritesheet_150
+    21300168: ralsei_spritesheet_151
+    21300170: ralsei_spritesheet_152
+    21300172: ralsei_spritesheet_153
+    21300174: ralsei_spritesheet_154
+    21300176: ralsei_spritesheet_155
+    21300178: ralsei_spritesheet_156
+    21300180: ralsei_spritesheet_157
+    21300182: ralsei_spritesheet_158
+    21300184: ralsei_spritesheet_159
+    21300186: ralsei_spritesheet_160
+    21300188: ralsei_spritesheet_161
+    21300190: ralsei_spritesheet_162
+    21300192: ralsei_spritesheet_163
+    21300194: ralsei_spritesheet_164
+    21300196: ralsei_spritesheet_165
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ralsei_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 705
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f411b52262164bb629f4e8983ca92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 707
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be7f01aa09c5c4186c19caa82e7e54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 707
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca8d47aa7c31ce4f81ec27c4493cd12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 705
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec6a917a295fda468546573bd118f8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 703
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ae7b155391594db3201e16f453b74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 657
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.57287544, y: 0.023768226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779c7860d589af34b87b99d3f67ac48d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 657
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.57287544, y: 0.023768226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f259fb0e62919d40942b144ca941de7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 657
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.57287544, y: 0.023768226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6991fbad0c63a0e48a7dbbead2d43498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 657
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.56056154, y: 0.023766806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1954a5587a5aa247a6e515fbaf9a1d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 657
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.56056154, y: 0.023766806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca16eb66eda6d4297bc9e0054f8455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 518
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6535783, y: 0.041259766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce6a2e1fc56b04ba4929ae9cd403e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 518
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6507858, y: 0.041259766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec34a6846b97d4b8bb0248d07eabcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 518
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.65357816, y: 0.041259766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0435ba0fa0871949807436c1ec647a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 518
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.41480064, y: 0.027445948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b907aa90927a54b89f4dc50b7f8205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 518
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.53727466, y: 0.027445948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ed78c5a5f3c347ab2cba221c94511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 518
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4777739, y: 0.027445948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e23509c97aee54d975dd29e94217ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 517
+        width: 69
+        height: 42
+      alignment: 9
+      pivot: {x: 0.23195438, y: 0.025861468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc3e858ac9de014d938f30a25d5a165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 517
+        width: 67
+        height: 42
+      alignment: 9
+      pivot: {x: 0.2245702, y: 0.025861468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a333a05168b6348aeac9dd959d00e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 517
+        width: 67
+        height: 42
+      alignment: 9
+      pivot: {x: 0.22604324, y: 0.025861468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc0ff0a18cb9b84bb3f0405d6622be4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 517
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.29590538, y: 0.05018793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8435e38b3b3e14344805a5987d9706d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 518
+        width: 25
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6026294, y: 0.069381714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a92c5931dc783741a982d814a90d26f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 468
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5750706, y: 0.025353866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0215863edc923af458d7ff5bd1d4a116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 468
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5818508, y: 0.049222674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59331d6d0d01541a29278ea9c6a1bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 469
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7e8de571a9875488ee24c8f63c5755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 420
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.43584964, y: 0.028257098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825b7c8a204c47f46aae897abb143aac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 420
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.12323322, y: 0.0746787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072ede7876d66f04cb36f072cf0ebc0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 420
+        width: 54
+        height: 28
+      alignment: 9
+      pivot: {x: 0.09405631, y: 0.0746787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796e65fca1ac2b445aa0c122a5289792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 420
+        width: 57
+        height: 28
+      alignment: 9
+      pivot: {x: 0.08768771, y: 0.0746787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e9bb2afc84584c9dc8034d9f907ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 420
+        width: 56
+        height: 30
+      alignment: 9
+      pivot: {x: 0.089734755, y: 0.07141622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4407290822d94234fb2fb1c8729b94e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 420
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.09741272, y: 0.067903645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69fc5da99b640e46a49598347066393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 372
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6378451, y: 0.045793805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df04b762000f38468b67a7964d1e5a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 372
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4015398, y: 0.048723493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcac46d28b5a134ba3afb4cb106bd86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 372
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3181839, y: 0.048723493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb89bc1dedddce4d98a76b428814648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 372
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: 0.30098447, y: 0.043720525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15cf6e87168b64bb5405c3e5089c56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 372
+        width: 46
+        height: 45
+      alignment: 9
+      pivot: {x: 0.3474937, y: 0.021373155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a309d421b9174c0488dc6f670fceab66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 372
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5551737, y: 0.024108887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb2fdd230ee3e4d94c972c76974af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 372
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5461553, y: 0.021684127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e3a3ad0facce741b317050670dc684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 372
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.58047485, y: 0.024871826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2cdaed930057c4ca195cb575f8c73b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 324
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5786384, y: 0.024514131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147fc929d34826d4388975af186d9b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 324
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3088017, y: 0.024647305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de210b743d5978a449ef407f68ac5ae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 324
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.41056824, y: 0.02751087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56358350b43ce50428b34b7aada702e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 324
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.44193873, y: 0.02751087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a125be78f39904fb5d24e49ab63f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 324
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.43202144, y: 0.024514131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff84cfd1af3a0974fbe43929b445f8b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 324
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48075685, y: 0.02751087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f53eda5c9f6c4f90a3fa702bb80d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 324
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48075563, y: 0.02751087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc17eba9fb13b4293ea0e28b30f4c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 324
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48075563, y: 0.024647305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dfbb90d36c35a4a8fcce1d84d23920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 268
+        width: 28
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6076898, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a354ea4f7c9444db3c673d32a4c1c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 268
+        width: 28
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6076898, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859833801543a0e4db045d9638e79f5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 268
+        width: 28
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6076898, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73988e70dabe31b47b2847c1e51b6b5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 268
+        width: 28
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6076898, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b006134622fa04787f4e52ae9d6b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 268
+        width: 28
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6076898, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dd9309e87e50247b676a9557b9dd95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 268
+        width: 28
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6076898, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e6fd854cc523e428a5d2af61fd2d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 268
+        width: 28
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6076898, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2852cf57ebfbfe2459022c2a20e2e7e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 268
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6561928, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e5c64e707def4ab202e3a9b2b9c5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 268
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6406486, y: 0.019535359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030f1327945d794ba3c72e1a04f3bd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 218
+        width: 33
+        height: 45
+      alignment: 9
+      pivot: {x: 0.484466, y: 0.06996426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d44042dbdfb7d4092505d0c86eebaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 218
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5249193, y: 0.068928115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e3e619bb9440f419d625c9edf5a35b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 218
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5415641, y: 0.068928115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2058823560efad4d9fdfa364c0281df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 218
+        width: 33
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48446563, y: 0.068928115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa1abf384e0ceb43883de6d94a254e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 218
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5596072, y: 0.07802154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d5398686fc5743a06cf20cfbc1077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 218
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5976424, y: 0.068928115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f2706038433574898f905f9c7da6fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 219
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4719658, y: 0.048539594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc02eb7419a7cd4d8da63fb9a323188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 220
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.46796036, y: 0.024397448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed614400d278946983c941e9fbae81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 220
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.46796036, y: 0.022326035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d7b5d179fab0f45853480456016b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 220
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46796036, y: 0.023139067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd9bf9990bbc354c9d7b70d298151be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 220
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46796036, y: 0.02704148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05dc8fe9846bdf4c8cb1a93dd24b14a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 220
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.47196388, y: 0.024883736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d73feb9ab8c7447ac9989e8ce9ca98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 220
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5569571, y: 0.026119499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f57fb6d89601441afcc6d9534cc37a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 172
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51982206, y: 0.022094727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37795c258dc09f945aeff854c1109461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 172
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.58248204, y: 0.022094727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31733678c30eae4b8b1ec7e54052bbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.58248204, y: 0.022094727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2940ba5a0471846a0c6db0d5ddaca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 172
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.58248204, y: 0.022094727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd89c487aedcde40be5328ed043be42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 172
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.58248204, y: 0.022094727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77686754742d984b9f350ccfb2ec0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 172
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.58248204, y: 0.024287025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18faff0a8d305348a1659db7d943ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 172
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.58248204, y: 0.024287025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1737ac8bb8f1478a58e5505a9bf04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 172
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5630603, y: 0.022095082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccbb50288468884db6d95c90c4d3138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 172
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.60180545, y: 0.024287025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2715f11339088c54ebb1947cec577d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 172
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.53988063, y: 0.022094727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fab25177b5b5c4e814e75c06185b91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 172
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.42593274, y: 0.047524262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12ea45f6d11a4e49bdf2a3e2ee8cca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 172
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.51885134, y: 0.047524262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4114e4ad75141439c79a63cd0220c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 172
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5824814, y: 0.044382367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca79a1af66b48441806fd3e459fd3f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 172
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.67057294, y: 0.044016995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d464e398c6a9c9448a0e602b7e565698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 172
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6660825, y: 0.046208583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2225fa6844de564d89d36ad1a3fe1ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339c82ae874512049b01be3f62dbb43c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 143
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d36f32c546ad40904959517dda697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 124
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42807d31195a21446aaa77a437e1ffe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 124
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44835836, y: 0.047035217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf2459f828f01c468bf061f28453416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 124
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4332962, y: 0.047035217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726a4a9f52f5434ba99fe182c2e5f60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 124
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4526618, y: 0.045779817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02278dea871d3b24fb29c43fdd0e82be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 124
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf79a6b6197d342be62804ec561e7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 124
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35171ab945fe34c952d6e6b8cb5ae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 124
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49f21c913a98a49a117d409bd055bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 126
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77e408f4dc3e847ab02078937a3c0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ralsei_spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 126
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4317d24c30245489c742e1dce16361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e292182e1ae2ab3449b588c3b91bb320
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
