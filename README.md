@@ -2,6 +2,10 @@
 
 Goal release date:
 -----------------------------------------
+ACTION ITEMS (4/30/20)
+-Ways to express Jevil's mad influence in Seams dialogue and attacks
+=Jevilsknife raises Seams tp bar to 100%
+=Energy color change to dark energy??
 
 Assets:
 -Animation
@@ -13,10 +17,22 @@ Story:
 =Seam
 ==Top of the class magic student, meets Jevil, talented deliquent. Seam travels with Jevil to keep checks on him, trying to influence him. They end up influencing each other and forms a bond. They eventually make a name for themselves and then get picked up to be court made and court jester. 
 Later in service, the "knight" eventually comes and overthrows the kingdom. Before/during that time Jevil has a run-in of sorts with 
+---
 
 -Dialogue
-=
+Guideline: The dialogue should show Seam slowly going "crazy".
 
+=Pre fight
+==This section is to introduce why Seam agrees to engage with you. your ulterior motive is to give him hope.
+==Needs to imply that they "play"/fight
+
+=Trick phase
+
+=Hat phase
+
+=Magic phase
+
+---
 -Battle script
 =Basic + Trick Phase
 Seam throws out basic attacks (throws card suits at your, reminiscent of Jevils basics). As dialogue begins (maybe a couple rounds of basics), he begins throwing out trick attacks (waterfall shuffle, sword attack, thread/needle, cat's cradle??). Eventaully he throws out the hat trick mechanic.
@@ -33,6 +49,7 @@ At the end of Seam trick phase (time gated), the fight pauses and Seam expounds.
 
 ==Seam's TP bar
 His TP bar starts at 100%. The bar depletes as he throws out more attacks. The attacks thrown, as well as their TP amounts are hard coded, though some attacks are more expensive than others. At 0% TP, Seam will do *something* to refill his gauge to ???% and then release his "limit break".
+"something" = Jevilsknife???
 
 After his final attack, the UI dissapears and he does a final exposition. You win :).
 
