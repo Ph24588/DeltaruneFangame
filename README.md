@@ -6,6 +6,7 @@ ACTION ITEMS (4/30/20)
 -Ways to express Jevil's mad influence in Seams dialogue and attacks
 =Jevilsknife raises Seams tp bar to 100%
 =Energy color change to dark energy??
+=
 
 Assets:
 -Animation
@@ -23,14 +24,59 @@ Later in service, the "knight" eventually comes and overthrows the kingdom. Befo
 Guideline: The dialogue should show Seam slowly going "crazy".
 
 =Pre fight
-==This section is to introduce why Seam agrees to engage with you. your ulterior motive is to give him hope.
-==Needs to imply that they "play"/fight
+==The party approaches Seam with Jevilsknife, with the intent of simply following up with him after your fight with Jevil. Before presenting it, someone in your party makes an off-hand comment about it being "odd". You present what he drops, the knife, and he takes it to insepct it, and then starts talking about some memories that it brings up. This transitions into Seam showing what it can do, which begins the fight.
+
+Pretext
+The gang walks back to Seam's shop after defeating Jevil. Ralsei seems concerned.
+
+Ralsei
+Susie, do you really think it's a good idea to show the *Jevilsknife* to Seam? 
+
+Susie
+Don't be such a wimp, it's just a knife. And an axe is just a bigger knife.
+
+Ralsei
+I don't know, it doesn't feel right. Like it's-
+
+Seam
+Are you going to be mumbling around for longer, or did you want to show me something?
+
+Susie
+Here ya old bag, we took care of it.
+
+*Susie hands over the *Jevilsknife* to Seam*
+
+Seam
+Hee hee, well what do we have here?
+...
+Jevil and I used to do all kinds of things together... before he turned. All kinds of nonsense. It's a shame that it ended this way. I think about it from time to time. I miss those days. (REVISE)
+...
+You know, this thing looks like a knife, but it was actually used all the time as a part of Jevil's old routine.
+
+Ralsei
+Oh really? ᵇᵉᶜᵃᵘˢᵉ ᶦᵗ ʰᵘʳᵗ ˡᶦᵏᵉ ᵃ ᵏⁿᶦᶠᵉ
+
+Seam
+Yes, it's more of a magician tool rather than a weapon. I could show you what it can do if you like. 
+
+Ralsei
+Kris, it seems like Seam is kinda bummed about this whole situation. Might be nice to see what he has.
+
+Kris (options)
+A. Let's cheer him up!
+B. I don't know, we are kinda busy...
+
++fight starts+
 
 =Trick phase
+Seam is sentimental and exposits more about his past while he does trick after trick. Some points relate more to the specific trick, others less. 
+Ralsei and the gang are encouraged that Seam is feeling better, but towards the end the party brings up concern as Seam transitions into heftier moves.
 
 =Hat phase
+When Seam puts the hats on the party, the party is very concerned and brings up off-hand comments about how he might be going too far. Seam no longer talks about his sentimental moments. At the end of this phase, Ralsei "snaps" and puts his foot down and calls out his behavior. Seam stops for a second and shows clear signs of him loosing it and going all the way. He says something as he transitions into the last phase.
 
 =Magic phase
+Ralsei expresses that Seam needs to be stopped. Seam says crazy nonsense, possibly related to things Jevil says. Maybe even easter eggs.
 
 ---
 -Battle script
