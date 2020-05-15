@@ -125,9 +125,10 @@ Seam's one liners:
 -CAN AN OLD CAT LEARN NEW TRICKS?
 -KEEPING UP? SPEED UP THE RIDE!
 -I'M ON FIRE. OH THAT'S YOU.
+-get more kooky, reference jevil text more  https://deltarune.fandom.com/wiki/Jevil
 
 Seam's final line
--Ladies and gentlemen, it's what you've been waiting for... the main event (final act?)! 
+-Ladies and gentlemen(lightners and ???), it's what you've been waiting for... the main event (final act?)! 
 
 Ending dialogue
 -
