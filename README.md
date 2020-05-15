@@ -57,7 +57,7 @@ Ralsei
 Oh really? ᵇᵉᶜᵃᵘˢᵉ ᶦᵗ ʰᵘʳᵗ ˡᶦᵏᵉ ᵃ ᵏⁿᶦᶠᵉ
 
 Seam
-Yes, it's more of a magician tool rather than a weapon. I could show you what it can do if you like. 
+Yes, it's more of a magician's tool rather than a weapon. I could show you what it can do if you like. 
 
 Ralsei
 Kris, it seems like Seam is kinda bummed about this whole situation. Might be nice to see what he has.
@@ -72,11 +72,32 @@ B. I don't know, we are kinda busy...
 Seam is sentimental and exposits more about his past while he does trick after trick. Some points relate more to the specific trick, others less. 
 Ralsei and the gang are encouraged that Seam is feeling better, but towards the end the party brings up concern as Seam transitions into heftier moves.
 
+
+
 =Hat phase
 When Seam puts the hats on the party, the party is very concerned and brings up off-hand comments about how he might be going too far. Seam no longer talks about his sentimental moments. At the end of this phase, Ralsei "snaps" and puts his foot down and calls out his behavior. Seam stops for a second and shows clear signs of him loosing it and going all the way. He says something as he transitions into the last phase.
 
 =Magic phase
 Ralsei expresses that Seam needs to be stopped. Seam says crazy nonsense, possibly related to things Jevil says. Maybe even easter eggs.
+
+Susie
+Whoa, he's losing it!
+
+Ralsei
+Kris, it's the knife! We need to stop this before it's too late!
+
+Seam
+YOU'RE DOING WELL. TIME FOR THE NEXT ACT!
+
+Seam's one liners:
+-AREN'T YOU TIRED OF BEING NICE?
+-HEE HEE... I HAVEN'T HAD THIS MUCH FUN SINCE...
+-CAN AN OLD CAT LEARN NEW TRICKS?
+-KEEPING UP? SPEED UP THE RIDE!
+-I'M ON FIRE. OH THAT'S YOU.
+
+Seam's final line
+-Ladies and gentlemen, it's what you've been waiting for... the main event!
 
 ---
 -Battle script
