@@ -72,16 +72,43 @@ B. I don't know, we are kinda busy...
 Seam is sentimental and exposits more about his past while he does trick after trick. Some points relate more to the specific trick, others less. 
 Ralsei and the gang are encouraged that Seam is feeling better, but towards the end the party brings up concern as Seam transitions into heftier moves.
 
+Seam's trick lines
+-This one is a Jevil original, though I doubt he showed it to you.
+-A fan favorite all should know!
+-One of my earliest tricks. Can't learn this one in magic school.
+-
+-
 
+Ralsei
+Hey, is it just me or do these *tricks* kind of... hurt? 
+
+Susie
+Yeah, these games kinda suck! How about you do something else?
+
+Seam
+Feeling bashful are we? How about this one? One size fits all!
 
 =Hat phase
 When Seam puts the hats on the party, the party is very concerned and brings up off-hand comments about how he might be going too far. Seam no longer talks about his sentimental moments. At the end of this phase, Ralsei "snaps" and puts his foot down and calls out his behavior. Seam stops for a second and shows clear signs of him loosing it and going all the way. He says something as he transitions into the last phase.
 
-=Magic phase
-Ralsei expresses that Seam needs to be stopped. Seam says crazy nonsense, possibly related to things Jevil says. Maybe even easter eggs.
+Ralsei
+That's enough! We wanted you to liven up a bit, but this is way too much! You're not listening to us, being crazy, and quite frankly... just being plain mean! No more games Seam.
+
+Susie
+0_0"...
+
+Seam
+Oh... you didn't like my hat trick?
+...hee hee
+You don't like my games... But we can keep playing can't we?
+
+*transition*
 
 Susie
 Whoa, he's losing it!
+
+=Magic phase
+Ralsei expresses that Seam needs to be stopped. Seam says crazy nonsense, possibly related to things Jevil says. Maybe even easter eggs.
 
 Ralsei
 Kris, it's the knife! We need to stop this before it's too late!
