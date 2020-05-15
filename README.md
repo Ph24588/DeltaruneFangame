@@ -51,16 +51,16 @@ Hee hee, well what do we have here?
 ...
 Jevil and I used to do all kinds of things together... before he turned. All kinds of nonsense. It's a shame that it ended this way. I think about it from time to time. I miss those days. (REVISE)
 ...
-You know, this thing looks like a knife, but it was actually used all the time as a part of Jevil's old routine.
+You know, this thing looks like a knife, but it was actually used all the time as a part of Jevil's old routine. 
 
 Ralsei
 Oh really? ᵇᵉᶜᵃᵘˢᵉ ᶦᵗ ʰᵘʳᵗ ˡᶦᵏᵉ ᵃ ᵏⁿᶦᶠᵉ
 
 Seam
-Yes, it's more of a magician's tool rather than a weapon. I could show you what it can do if you like. 
+Yes, it's more of a magician's tool rather than a weapon. I could show you what it can do if you like. (magicians tool rewording? what exactly do we want it to be; a magical item, a prop? lets clarify the intent)
 
 Ralsei
-Kris, it seems like Seam is kinda bummed about this whole situation. Might be nice to see what he has.
+Kris, it seems like Seam is kinda bummed about this whole situation. Might be nice to see what he has. (make less aggressive, more ralsei-esque)
 
 Kris (options)
 A. Let's cheer him up!
@@ -75,15 +75,18 @@ Ralsei and the gang are encouraged that Seam is feeling better, but towards the 
 Seam's trick lines
 -This one is a Jevil original, though I doubt he showed it to you.
 -A fan favorite all should know!
--One of my earliest tricks. Can't learn this one in magic school.
+-One of my earliest tricks. Can't learn this one in magic school. (split this one up into 2? i like "can't learn this one in magic school" by itself quite a bit)
 -
 -
+
+Ralsei (Susie can say this)
+Hey, uh, is it just me or do these *tricks* kind of... hurt? 
+
+Susie (just yeet this one)
+Yeah, these games kinda suck! How about you do something else?
 
 Ralsei
-Hey, is it just me or do these *tricks* kind of... hurt? 
-
-Susie
-Yeah, these games kinda suck! How about you do something else?
+Yes, Seam, I think that really is-
 
 Seam
 Feeling bashful are we? How about this one? One size fits all!
@@ -105,7 +108,7 @@ You don't like my games... But we can keep playing can't we?
 *transition*
 
 Susie
-Whoa, he's losing it!
+Whoa, he's losing it! ( I think maybe we should give a bit more context for him going crazy throughout the fight, but otherwise good)
 
 =Magic phase
 Ralsei expresses that Seam needs to be stopped. Seam says crazy nonsense, possibly related to things Jevil says. Maybe even easter eggs.
@@ -124,7 +127,7 @@ Seam's one liners:
 -I'M ON FIRE. OH THAT'S YOU.
 
 Seam's final line
--Ladies and gentlemen, it's what you've been waiting for... the main event!
+-Ladies and gentlemen, it's what you've been waiting for... the main event (final act?)! 
 
 Ending dialogue
 -
