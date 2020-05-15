@@ -126,6 +126,9 @@ Seam's one liners:
 Seam's final line
 -Ladies and gentlemen, it's what you've been waiting for... the main event!
 
+Ending dialogue
+-
+
 ---
 -Battle script
 =Basic + Trick Phase
